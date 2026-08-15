@@ -1,0 +1,1926 @@
+[
+  {
+    "id": 1,
+    "name": "Supreme Court of India",
+    "tier": "SC",
+    "state": "National",
+    "district": "New Delhi",
+    "lat": 28.6226,
+    "lon": 77.2394,
+    "establishment_code": "SC_01",
+    "is_bench": false,
+    "total": 92862,
+    "civil": 55105,
+    "criminal": 37757,
+    "judge_strength": {
+      "sanctioned": 34,
+      "working": 32,
+      "vacancy": 2,
+      "vacancy_rate": 5.9
+    },
+    "case_clearance_rate": 104.5,
+    "disposal_velocity": {
+      "avg_trial_months": 18.5,
+      "bail_turnaround_days": 12
+    },
+    "police_intelligence": {
+      "pending_warrants": 450,
+      "chargesheet_to_trial_days": 90,
+      "undertrial_prisoners": 0
+    },
+    "special_courts": {
+      "pocso": 120,
+      "ndps": 240,
+      "mact": 180,
+      "sec_138": 950,
+      "commercial": 1450
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Supreme Court Legal Services Committee (SCLSC) - Toll Free: 15100",
+      "ecourts_cause_list_url": "https://main.sci.gov.in/causelist",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 27923,
+        "disposed": 29180,
+        "pending": 76719
+      },
+      {
+        "year": 2023,
+        "instituted": 26320,
+        "disposed": 27504,
+        "pending": 75535
+      },
+      {
+        "year": 2024,
+        "instituted": 25425,
+        "disposed": 26569,
+        "pending": 74391
+      },
+      {
+        "year": 2025,
+        "instituted": 30603,
+        "disposed": 31980,
+        "pending": 73014
+      },
+      {
+        "year": 2026,
+        "instituted": 27584,
+        "disposed": 28825,
+        "pending": 92862
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "High Court of Judicature at Allahabad",
+    "tier": "HC",
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "lat": 25.4526,
+    "lon": 81.8282,
+    "establishment_code": "HC_ALLAHABAD",
+    "is_bench": false,
+    "total": 249996,
+    "civil": 139802,
+    "criminal": 110194,
+    "judge_strength": {
+      "sanctioned": 63,
+      "working": 50,
+      "vacancy": 13,
+      "vacancy_rate": 20.6
+    },
+    "case_clearance_rate": 108.2,
+    "disposal_velocity": {
+      "avg_trial_months": 28.4,
+      "bail_turnaround_days": 19
+    },
+    "police_intelligence": {
+      "pending_warrants": 5235,
+      "chargesheet_to_trial_days": 197,
+      "undertrial_prisoners": 7770
+    },
+    "special_courts": {
+      "pocso": 1441,
+      "ndps": 1473,
+      "mact": 9602,
+      "sec_138": 20452,
+      "commercial": 6573
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Uttar Pradesh High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 84829,
+        "disposed": 91785,
+        "pending": 203044
+      },
+      {
+        "year": 2023,
+        "instituted": 68990,
+        "disposed": 74647,
+        "pending": 197387
+      },
+      {
+        "year": 2024,
+        "instituted": 74225,
+        "disposed": 80311,
+        "pending": 191301
+      },
+      {
+        "year": 2025,
+        "instituted": 63800,
+        "disposed": 69032,
+        "pending": 186069
+      },
+      {
+        "year": 2026,
+        "instituted": 68506,
+        "disposed": 74123,
+        "pending": 249996
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "High Court of Andhra Pradesh",
+    "tier": "HC",
+    "state": "Andhra Pradesh",
+    "district": "Amaravati",
+    "lat": 16.5186,
+    "lon": 80.5185,
+    "establishment_code": "HC_ANDHRA_PRADESH",
+    "is_bench": false,
+    "total": 250014,
+    "civil": 141377,
+    "criminal": 108637,
+    "judge_strength": {
+      "sanctioned": 51,
+      "working": 34,
+      "vacancy": 17,
+      "vacancy_rate": 33.3
+    },
+    "case_clearance_rate": 104.7,
+    "disposal_velocity": {
+      "avg_trial_months": 27.9,
+      "bail_turnaround_days": 15
+    },
+    "police_intelligence": {
+      "pending_warrants": 8711,
+      "chargesheet_to_trial_days": 178,
+      "undertrial_prisoners": 12713
+    },
+    "special_courts": {
+      "pocso": 2160,
+      "ndps": 3991,
+      "mact": 3350,
+      "sec_138": 10231,
+      "commercial": 2906
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Andhra Pradesh High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 74282,
+        "disposed": 77773,
+        "pending": 206509
+      },
+      {
+        "year": 2023,
+        "instituted": 72976,
+        "disposed": 76406,
+        "pending": 203079
+      },
+      {
+        "year": 2024,
+        "instituted": 69964,
+        "disposed": 73252,
+        "pending": 199791
+      },
+      {
+        "year": 2025,
+        "instituted": 63966,
+        "disposed": 66972,
+        "pending": 196785
+      },
+      {
+        "year": 2026,
+        "instituted": 71556,
+        "disposed": 74919,
+        "pending": 250014
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "High Court of Bombay",
+    "tier": "HC",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "lat": 18.9298,
+    "lon": 72.8306,
+    "establishment_code": "HC_BOMBAY",
+    "is_bench": false,
+    "total": 250044,
+    "civil": 145039,
+    "criminal": 105005,
+    "judge_strength": {
+      "sanctioned": 57,
+      "working": 45,
+      "vacancy": 12,
+      "vacancy_rate": 21.1
+    },
+    "case_clearance_rate": 108.4,
+    "disposal_velocity": {
+      "avg_trial_months": 27.6,
+      "bail_turnaround_days": 29
+    },
+    "police_intelligence": {
+      "pending_warrants": 12413,
+      "chargesheet_to_trial_days": 159,
+      "undertrial_prisoners": 5481
+    },
+    "special_courts": {
+      "pocso": 1151,
+      "ndps": 4599,
+      "mact": 9020,
+      "sec_138": 5129,
+      "commercial": 8583
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Maharashtra High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 85337,
+        "disposed": 92505,
+        "pending": 202832
+      },
+      {
+        "year": 2023,
+        "instituted": 68738,
+        "disposed": 74512,
+        "pending": 197058
+      },
+      {
+        "year": 2024,
+        "instituted": 79714,
+        "disposed": 86410,
+        "pending": 190362
+      },
+      {
+        "year": 2025,
+        "instituted": 66939,
+        "disposed": 72562,
+        "pending": 184739
+      },
+      {
+        "year": 2026,
+        "instituted": 61156,
+        "disposed": 66293,
+        "pending": 250044
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "High Court of Calcutta",
+    "tier": "HC",
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "lat": 22.5697,
+    "lon": 88.3433,
+    "establishment_code": "HC_CALCUTTA",
+    "is_bench": false,
+    "total": 250002,
+    "civil": 145567,
+    "criminal": 104435,
+    "judge_strength": {
+      "sanctioned": 100,
+      "working": 72,
+      "vacancy": 28,
+      "vacancy_rate": 28.0
+    },
+    "case_clearance_rate": 93.6,
+    "disposal_velocity": {
+      "avg_trial_months": 40.6,
+      "bail_turnaround_days": 28
+    },
+    "police_intelligence": {
+      "pending_warrants": 6186,
+      "chargesheet_to_trial_days": 206,
+      "undertrial_prisoners": 11988
+    },
+    "special_courts": {
+      "pocso": 1543,
+      "ndps": 2009,
+      "mact": 5725,
+      "sec_138": 12483,
+      "commercial": 2837
+    },
+    "citizen_aid": {
+      "dlsa_contact": "West Bengal High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 87633,
+        "disposed": 82024,
+        "pending": 215609
+      },
+      {
+        "year": 2023,
+        "instituted": 83733,
+        "disposed": 78374,
+        "pending": 220968
+      },
+      {
+        "year": 2024,
+        "instituted": 75198,
+        "disposed": 70385,
+        "pending": 225781
+      },
+      {
+        "year": 2025,
+        "instituted": 93989,
+        "disposed": 87974,
+        "pending": 231796
+      },
+      {
+        "year": 2026,
+        "instituted": 81637,
+        "disposed": 76412,
+        "pending": 250002
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "High Court of Chhattisgarh",
+    "tier": "HC",
+    "state": "Chhattisgarh",
+    "district": "Bilaspur",
+    "lat": 22.0797,
+    "lon": 82.1409,
+    "establishment_code": "HC_CHHATTISGARH",
+    "is_bench": false,
+    "total": 249980,
+    "civil": 141652,
+    "criminal": 108328,
+    "judge_strength": {
+      "sanctioned": 52,
+      "working": 38,
+      "vacancy": 14,
+      "vacancy_rate": 26.9
+    },
+    "case_clearance_rate": 103.9,
+    "disposal_velocity": {
+      "avg_trial_months": 23.4,
+      "bail_turnaround_days": 28
+    },
+    "police_intelligence": {
+      "pending_warrants": 5389,
+      "chargesheet_to_trial_days": 183,
+      "undertrial_prisoners": 6421
+    },
+    "special_courts": {
+      "pocso": 2168,
+      "ndps": 5782,
+      "mact": 13725,
+      "sec_138": 8198,
+      "commercial": 7439
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Chhattisgarh High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 86512,
+        "disposed": 89886,
+        "pending": 206626
+      },
+      {
+        "year": 2023,
+        "instituted": 86278,
+        "disposed": 89643,
+        "pending": 203261
+      },
+      {
+        "year": 2024,
+        "instituted": 75293,
+        "disposed": 78229,
+        "pending": 200325
+      },
+      {
+        "year": 2025,
+        "instituted": 84039,
+        "disposed": 87317,
+        "pending": 197047
+      },
+      {
+        "year": 2026,
+        "instituted": 68600,
+        "disposed": 71275,
+        "pending": 249980
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "High Court of Delhi",
+    "tier": "HC",
+    "state": "Delhi",
+    "district": "New Delhi",
+    "lat": 28.6083,
+    "lon": 77.2407,
+    "establishment_code": "HC_DELHI",
+    "is_bench": false,
+    "total": 249970,
+    "civil": 139077,
+    "criminal": 110893,
+    "judge_strength": {
+      "sanctioned": 116,
+      "working": 70,
+      "vacancy": 46,
+      "vacancy_rate": 39.7
+    },
+    "case_clearance_rate": 96.4,
+    "disposal_velocity": {
+      "avg_trial_months": 42.9,
+      "bail_turnaround_days": 27
+    },
+    "police_intelligence": {
+      "pending_warrants": 12620,
+      "chargesheet_to_trial_days": 182,
+      "undertrial_prisoners": 11919
+    },
+    "special_courts": {
+      "pocso": 1721,
+      "ndps": 1411,
+      "mact": 4899,
+      "sec_138": 16010,
+      "commercial": 4141
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Delhi High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 71135,
+        "disposed": 68574,
+        "pending": 212561
+      },
+      {
+        "year": 2023,
+        "instituted": 76420,
+        "disposed": 73669,
+        "pending": 215312
+      },
+      {
+        "year": 2024,
+        "instituted": 71198,
+        "disposed": 68635,
+        "pending": 217875
+      },
+      {
+        "year": 2025,
+        "instituted": 82808,
+        "disposed": 79827,
+        "pending": 220856
+      },
+      {
+        "year": 2026,
+        "instituted": 87420,
+        "disposed": 84273,
+        "pending": 249970
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Gauhati High Court",
+    "tier": "HC",
+    "state": "Assam",
+    "district": "Guwahati",
+    "lat": 26.1923,
+    "lon": 91.7516,
+    "establishment_code": "HC_GAUHATI",
+    "is_bench": false,
+    "total": 250022,
+    "civil": 146098,
+    "criminal": 103924,
+    "judge_strength": {
+      "sanctioned": 127,
+      "working": 92,
+      "vacancy": 35,
+      "vacancy_rate": 27.6
+    },
+    "case_clearance_rate": 97.4,
+    "disposal_velocity": {
+      "avg_trial_months": 32.6,
+      "bail_turnaround_days": 16
+    },
+    "police_intelligence": {
+      "pending_warrants": 10473,
+      "chargesheet_to_trial_days": 190,
+      "undertrial_prisoners": 10708
+    },
+    "special_courts": {
+      "pocso": 4145,
+      "ndps": 4448,
+      "mact": 5602,
+      "sec_138": 23398,
+      "commercial": 4629
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Assam High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 83430,
+        "disposed": 81261,
+        "pending": 212169
+      },
+      {
+        "year": 2023,
+        "instituted": 79297,
+        "disposed": 77235,
+        "pending": 214231
+      },
+      {
+        "year": 2024,
+        "instituted": 75348,
+        "disposed": 73389,
+        "pending": 216190
+      },
+      {
+        "year": 2025,
+        "instituted": 74711,
+        "disposed": 72769,
+        "pending": 218132
+      },
+      {
+        "year": 2026,
+        "instituted": 76746,
+        "disposed": 74751,
+        "pending": 250022
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "High Court of Gujarat",
+    "tier": "HC",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "lat": 23.0784,
+    "lon": 72.5298,
+    "establishment_code": "HC_GUJARAT",
+    "is_bench": false,
+    "total": 249988,
+    "civil": 137550,
+    "criminal": 112438,
+    "judge_strength": {
+      "sanctioned": 143,
+      "working": 99,
+      "vacancy": 44,
+      "vacancy_rate": 30.8
+    },
+    "case_clearance_rate": 104.8,
+    "disposal_velocity": {
+      "avg_trial_months": 28.9,
+      "bail_turnaround_days": 36
+    },
+    "police_intelligence": {
+      "pending_warrants": 6417,
+      "chargesheet_to_trial_days": 188,
+      "undertrial_prisoners": 4021
+    },
+    "special_courts": {
+      "pocso": 858,
+      "ndps": 4735,
+      "mact": 5911,
+      "sec_138": 22166,
+      "commercial": 2704
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Gujarat High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 84996,
+        "disposed": 89076,
+        "pending": 205920
+      },
+      {
+        "year": 2023,
+        "instituted": 85716,
+        "disposed": 89830,
+        "pending": 201806
+      },
+      {
+        "year": 2024,
+        "instituted": 82332,
+        "disposed": 86284,
+        "pending": 197854
+      },
+      {
+        "year": 2025,
+        "instituted": 80919,
+        "disposed": 84803,
+        "pending": 193970
+      },
+      {
+        "year": 2026,
+        "instituted": 72937,
+        "disposed": 76438,
+        "pending": 249988
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "High Court of Himachal Pradesh",
+    "tier": "HC",
+    "state": "Himachal Pradesh",
+    "district": "Shimla",
+    "lat": 31.1048,
+    "lon": 77.1734,
+    "establishment_code": "HC_HIMACHAL",
+    "is_bench": false,
+    "total": 250028,
+    "civil": 145510,
+    "criminal": 104518,
+    "judge_strength": {
+      "sanctioned": 63,
+      "working": 49,
+      "vacancy": 14,
+      "vacancy_rate": 22.2
+    },
+    "case_clearance_rate": 97.1,
+    "disposal_velocity": {
+      "avg_trial_months": 37.1,
+      "bail_turnaround_days": 16
+    },
+    "police_intelligence": {
+      "pending_warrants": 7426,
+      "chargesheet_to_trial_days": 195,
+      "undertrial_prisoners": 15140
+    },
+    "special_courts": {
+      "pocso": 2696,
+      "ndps": 2897,
+      "mact": 5703,
+      "sec_138": 10586,
+      "commercial": 3112
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Himachal Pradesh High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 77126,
+        "disposed": 74889,
+        "pending": 212237
+      },
+      {
+        "year": 2023,
+        "instituted": 74863,
+        "disposed": 72692,
+        "pending": 214408
+      },
+      {
+        "year": 2024,
+        "instituted": 73612,
+        "disposed": 71477,
+        "pending": 216543
+      },
+      {
+        "year": 2025,
+        "instituted": 78193,
+        "disposed": 75925,
+        "pending": 218811
+      },
+      {
+        "year": 2026,
+        "instituted": 79887,
+        "disposed": 77570,
+        "pending": 250028
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "High Court of Jammu & Kashmir and Ladakh",
+    "tier": "HC",
+    "state": "Jammu & Kashmir",
+    "district": "Srinagar",
+    "lat": 34.09,
+    "lon": 74.8,
+    "establishment_code": "HC_JAMMU_KASHMIR",
+    "is_bench": false,
+    "total": 249998,
+    "civil": 149897,
+    "criminal": 100101,
+    "judge_strength": {
+      "sanctioned": 50,
+      "working": 37,
+      "vacancy": 13,
+      "vacancy_rate": 26.0
+    },
+    "case_clearance_rate": 99.9,
+    "disposal_velocity": {
+      "avg_trial_months": 30.0,
+      "bail_turnaround_days": 17
+    },
+    "police_intelligence": {
+      "pending_warrants": 4515,
+      "chargesheet_to_trial_days": 201,
+      "undertrial_prisoners": 9103
+    },
+    "special_courts": {
+      "pocso": 2023,
+      "ndps": 2597,
+      "mact": 7936,
+      "sec_138": 21125,
+      "commercial": 2220
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Jammu & Kashmir High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 76229,
+        "disposed": 76153,
+        "pending": 210076
+      },
+      {
+        "year": 2023,
+        "instituted": 70351,
+        "disposed": 70281,
+        "pending": 210146
+      },
+      {
+        "year": 2024,
+        "instituted": 77465,
+        "disposed": 77388,
+        "pending": 210223
+      },
+      {
+        "year": 2025,
+        "instituted": 71756,
+        "disposed": 71684,
+        "pending": 210295
+      },
+      {
+        "year": 2026,
+        "instituted": 72123,
+        "disposed": 72051,
+        "pending": 249998
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "High Court of Jharkhand",
+    "tier": "HC",
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "lat": 23.3441,
+    "lon": 85.3096,
+    "establishment_code": "HC_JHARKHAND",
+    "is_bench": false,
+    "total": 250050,
+    "civil": 140285,
+    "criminal": 109765,
+    "judge_strength": {
+      "sanctioned": 148,
+      "working": 112,
+      "vacancy": 36,
+      "vacancy_rate": 24.3
+    },
+    "case_clearance_rate": 93.7,
+    "disposal_velocity": {
+      "avg_trial_months": 30.1,
+      "bail_turnaround_days": 23
+    },
+    "police_intelligence": {
+      "pending_warrants": 3010,
+      "chargesheet_to_trial_days": 114,
+      "undertrial_prisoners": 13992
+    },
+    "special_courts": {
+      "pocso": 813,
+      "ndps": 2508,
+      "mact": 6016,
+      "sec_138": 10607,
+      "commercial": 4137
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Jharkhand High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 69583,
+        "disposed": 65199,
+        "pending": 214384
+      },
+      {
+        "year": 2023,
+        "instituted": 82153,
+        "disposed": 76977,
+        "pending": 219560
+      },
+      {
+        "year": 2024,
+        "instituted": 89509,
+        "disposed": 83870,
+        "pending": 225199
+      },
+      {
+        "year": 2025,
+        "instituted": 78296,
+        "disposed": 73363,
+        "pending": 230132
+      },
+      {
+        "year": 2026,
+        "instituted": 84987,
+        "disposed": 79633,
+        "pending": 250050
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "High Court of Karnataka",
+    "tier": "HC",
+    "state": "Karnataka",
+    "district": "Bengaluru",
+    "lat": 12.9779,
+    "lon": 77.5928,
+    "establishment_code": "HC_KARNATAKA",
+    "is_bench": false,
+    "total": 249970,
+    "civil": 138409,
+    "criminal": 111561,
+    "judge_strength": {
+      "sanctioned": 93,
+      "working": 60,
+      "vacancy": 33,
+      "vacancy_rate": 35.5
+    },
+    "case_clearance_rate": 98.1,
+    "disposal_velocity": {
+      "avg_trial_months": 41.2,
+      "bail_turnaround_days": 35
+    },
+    "police_intelligence": {
+      "pending_warrants": 3324,
+      "chargesheet_to_trial_days": 172,
+      "undertrial_prisoners": 9337
+    },
+    "special_courts": {
+      "pocso": 1959,
+      "ndps": 2734,
+      "mact": 8755,
+      "sec_138": 9591,
+      "commercial": 6665
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Karnataka High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 83627,
+        "disposed": 82038,
+        "pending": 211589
+      },
+      {
+        "year": 2023,
+        "instituted": 84229,
+        "disposed": 82629,
+        "pending": 213189
+      },
+      {
+        "year": 2024,
+        "instituted": 75742,
+        "disposed": 74303,
+        "pending": 214628
+      },
+      {
+        "year": 2025,
+        "instituted": 69222,
+        "disposed": 67907,
+        "pending": 215943
+      },
+      {
+        "year": 2026,
+        "instituted": 80955,
+        "disposed": 79417,
+        "pending": 249970
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "High Court of Kerala",
+    "tier": "HC",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "lat": 9.9839,
+    "lon": 76.2755,
+    "establishment_code": "HC_KERALA",
+    "is_bench": false,
+    "total": 250010,
+    "civil": 141679,
+    "criminal": 108331,
+    "judge_strength": {
+      "sanctioned": 84,
+      "working": 62,
+      "vacancy": 22,
+      "vacancy_rate": 26.2
+    },
+    "case_clearance_rate": 108.3,
+    "disposal_velocity": {
+      "avg_trial_months": 28.8,
+      "bail_turnaround_days": 27
+    },
+    "police_intelligence": {
+      "pending_warrants": 10644,
+      "chargesheet_to_trial_days": 158,
+      "undertrial_prisoners": 15014
+    },
+    "special_courts": {
+      "pocso": 2511,
+      "ndps": 1511,
+      "mact": 13516,
+      "sec_138": 12176,
+      "commercial": 4009
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Kerala High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 77973,
+        "disposed": 84445,
+        "pending": 203528
+      },
+      {
+        "year": 2023,
+        "instituted": 65986,
+        "disposed": 71463,
+        "pending": 198051
+      },
+      {
+        "year": 2024,
+        "instituted": 80668,
+        "disposed": 87363,
+        "pending": 191356
+      },
+      {
+        "year": 2025,
+        "instituted": 69146,
+        "disposed": 74885,
+        "pending": 185617
+      },
+      {
+        "year": 2026,
+        "instituted": 62643,
+        "disposed": 67842,
+        "pending": 250010
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "High Court of Madhya Pradesh",
+    "tier": "HC",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "lat": 23.1686,
+    "lon": 79.9404,
+    "establishment_code": "HC_MADHYA_PRADESH",
+    "is_bench": false,
+    "total": 250034,
+    "civil": 143261,
+    "criminal": 106773,
+    "judge_strength": {
+      "sanctioned": 74,
+      "working": 51,
+      "vacancy": 23,
+      "vacancy_rate": 31.1
+    },
+    "case_clearance_rate": 102.9,
+    "disposal_velocity": {
+      "avg_trial_months": 25.8,
+      "bail_turnaround_days": 23
+    },
+    "police_intelligence": {
+      "pending_warrants": 8038,
+      "chargesheet_to_trial_days": 159,
+      "undertrial_prisoners": 3960
+    },
+    "special_courts": {
+      "pocso": 1114,
+      "ndps": 5786,
+      "mact": 8142,
+      "sec_138": 11225,
+      "commercial": 4148
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Madhya Pradesh High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 84547,
+        "disposed": 86999,
+        "pending": 207548
+      },
+      {
+        "year": 2023,
+        "instituted": 83554,
+        "disposed": 85977,
+        "pending": 205125
+      },
+      {
+        "year": 2024,
+        "instituted": 84992,
+        "disposed": 87457,
+        "pending": 202660
+      },
+      {
+        "year": 2025,
+        "instituted": 81562,
+        "disposed": 83927,
+        "pending": 200295
+      },
+      {
+        "year": 2026,
+        "instituted": 70095,
+        "disposed": 72128,
+        "pending": 250034
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "High Court of Judicature at Madras",
+    "tier": "HC",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "lat": 13.0878,
+    "lon": 80.2872,
+    "establishment_code": "HC_MADRAS",
+    "is_bench": false,
+    "total": 250020,
+    "civil": 149425,
+    "criminal": 100595,
+    "judge_strength": {
+      "sanctioned": 130,
+      "working": 101,
+      "vacancy": 29,
+      "vacancy_rate": 22.3
+    },
+    "case_clearance_rate": 99.4,
+    "disposal_velocity": {
+      "avg_trial_months": 24.4,
+      "bail_turnaround_days": 31
+    },
+    "police_intelligence": {
+      "pending_warrants": 10203,
+      "chargesheet_to_trial_days": 118,
+      "undertrial_prisoners": 11909
+    },
+    "special_courts": {
+      "pocso": 3277,
+      "ndps": 5692,
+      "mact": 3912,
+      "sec_138": 12379,
+      "commercial": 6891
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Tamil Nadu High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 78710,
+        "disposed": 78238,
+        "pending": 210472
+      },
+      {
+        "year": 2023,
+        "instituted": 80030,
+        "disposed": 79550,
+        "pending": 210952
+      },
+      {
+        "year": 2024,
+        "instituted": 84483,
+        "disposed": 83976,
+        "pending": 211459
+      },
+      {
+        "year": 2025,
+        "instituted": 69546,
+        "disposed": 69129,
+        "pending": 211876
+      },
+      {
+        "year": 2026,
+        "instituted": 70585,
+        "disposed": 70161,
+        "pending": 250020
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "High Court of Manipur",
+    "tier": "HC",
+    "state": "Manipur",
+    "district": "Imphal",
+    "lat": 24.817,
+    "lon": 93.9368,
+    "establishment_code": "HC_MANIPUR",
+    "is_bench": false,
+    "total": 249974,
+    "civil": 147164,
+    "criminal": 102810,
+    "judge_strength": {
+      "sanctioned": 62,
+      "working": 46,
+      "vacancy": 16,
+      "vacancy_rate": 25.8
+    },
+    "case_clearance_rate": 96.4,
+    "disposal_velocity": {
+      "avg_trial_months": 43.6,
+      "bail_turnaround_days": 35
+    },
+    "police_intelligence": {
+      "pending_warrants": 3885,
+      "chargesheet_to_trial_days": 151,
+      "undertrial_prisoners": 10961
+    },
+    "special_courts": {
+      "pocso": 1824,
+      "ndps": 6701,
+      "mact": 5471,
+      "sec_138": 7285,
+      "commercial": 8251
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Manipur High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 74854,
+        "disposed": 72159,
+        "pending": 212695
+      },
+      {
+        "year": 2023,
+        "instituted": 79639,
+        "disposed": 76772,
+        "pending": 215562
+      },
+      {
+        "year": 2024,
+        "instituted": 79043,
+        "disposed": 76197,
+        "pending": 218408
+      },
+      {
+        "year": 2025,
+        "instituted": 85634,
+        "disposed": 82551,
+        "pending": 221491
+      },
+      {
+        "year": 2026,
+        "instituted": 76983,
+        "disposed": 74212,
+        "pending": 249974
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "High Court of Meghalaya",
+    "tier": "HC",
+    "state": "Meghalaya",
+    "district": "Shillong",
+    "lat": 25.5788,
+    "lon": 91.8933,
+    "establishment_code": "HC_MEGHALAYA",
+    "is_bench": false,
+    "total": 250020,
+    "civil": 140967,
+    "criminal": 109053,
+    "judge_strength": {
+      "sanctioned": 154,
+      "working": 99,
+      "vacancy": 55,
+      "vacancy_rate": 35.7
+    },
+    "case_clearance_rate": 96.2,
+    "disposal_velocity": {
+      "avg_trial_months": 25.5,
+      "bail_turnaround_days": 34
+    },
+    "police_intelligence": {
+      "pending_warrants": 7122,
+      "chargesheet_to_trial_days": 150,
+      "undertrial_prisoners": 12864
+    },
+    "special_courts": {
+      "pocso": 1085,
+      "ndps": 4523,
+      "mact": 4779,
+      "sec_138": 10814,
+      "commercial": 1944
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Meghalaya High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 83987,
+        "disposed": 80795,
+        "pending": 213192
+      },
+      {
+        "year": 2023,
+        "instituted": 75281,
+        "disposed": 72420,
+        "pending": 216053
+      },
+      {
+        "year": 2024,
+        "instituted": 70475,
+        "disposed": 67797,
+        "pending": 218731
+      },
+      {
+        "year": 2025,
+        "instituted": 79141,
+        "disposed": 76134,
+        "pending": 221738
+      },
+      {
+        "year": 2026,
+        "instituted": 92315,
+        "disposed": 88807,
+        "pending": 250020
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "High Court of Orissa",
+    "tier": "HC",
+    "state": "Odisha",
+    "district": "Cuttack",
+    "lat": 20.4625,
+    "lon": 85.8828,
+    "establishment_code": "HC_ORISSA",
+    "is_bench": false,
+    "total": 250036,
+    "civil": 141218,
+    "criminal": 108818,
+    "judge_strength": {
+      "sanctioned": 117,
+      "working": 86,
+      "vacancy": 31,
+      "vacancy_rate": 26.5
+    },
+    "case_clearance_rate": 106.4,
+    "disposal_velocity": {
+      "avg_trial_months": 30.9,
+      "bail_turnaround_days": 30
+    },
+    "police_intelligence": {
+      "pending_warrants": 5668,
+      "chargesheet_to_trial_days": 138,
+      "undertrial_prisoners": 8195
+    },
+    "special_courts": {
+      "pocso": 1965,
+      "ndps": 2718,
+      "mact": 10660,
+      "sec_138": 14065,
+      "commercial": 5633
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Odisha High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 84666,
+        "disposed": 90085,
+        "pending": 204581
+      },
+      {
+        "year": 2023,
+        "instituted": 78870,
+        "disposed": 83918,
+        "pending": 199533
+      },
+      {
+        "year": 2024,
+        "instituted": 68209,
+        "disposed": 72574,
+        "pending": 195168
+      },
+      {
+        "year": 2025,
+        "instituted": 74524,
+        "disposed": 79294,
+        "pending": 190398
+      },
+      {
+        "year": 2026,
+        "instituted": 63692,
+        "disposed": 67768,
+        "pending": 250036
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "High Court of Judicature at Patna",
+    "tier": "HC",
+    "state": "Bihar",
+    "district": "Patna",
+    "lat": 25.6119,
+    "lon": 85.1228,
+    "establishment_code": "HC_PATNA",
+    "is_bench": false,
+    "total": 250050,
+    "civil": 147283,
+    "criminal": 102767,
+    "judge_strength": {
+      "sanctioned": 72,
+      "working": 49,
+      "vacancy": 23,
+      "vacancy_rate": 31.9
+    },
+    "case_clearance_rate": 100.6,
+    "disposal_velocity": {
+      "avg_trial_months": 24.7,
+      "bail_turnaround_days": 20
+    },
+    "police_intelligence": {
+      "pending_warrants": 6168,
+      "chargesheet_to_trial_days": 207,
+      "undertrial_prisoners": 7609
+    },
+    "special_courts": {
+      "pocso": 4080,
+      "ndps": 5842,
+      "mact": 3518,
+      "sec_138": 8925,
+      "commercial": 3493
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Bihar High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 74325,
+        "disposed": 74771,
+        "pending": 209554
+      },
+      {
+        "year": 2023,
+        "instituted": 77581,
+        "disposed": 78046,
+        "pending": 209089
+      },
+      {
+        "year": 2024,
+        "instituted": 84897,
+        "disposed": 85406,
+        "pending": 208580
+      },
+      {
+        "year": 2025,
+        "instituted": 74125,
+        "disposed": 74570,
+        "pending": 208135
+      },
+      {
+        "year": 2026,
+        "instituted": 74397,
+        "disposed": 74843,
+        "pending": 250050
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "High Court of Punjab and Haryana",
+    "tier": "HC",
+    "state": "Punjab",
+    "district": "Chandigarh",
+    "lat": 30.759,
+    "lon": 76.802,
+    "establishment_code": "HC_PUNJAB_HARYANA",
+    "is_bench": false,
+    "total": 250050,
+    "civil": 140065,
+    "criminal": 109985,
+    "judge_strength": {
+      "sanctioned": 154,
+      "working": 110,
+      "vacancy": 44,
+      "vacancy_rate": 28.6
+    },
+    "case_clearance_rate": 107.1,
+    "disposal_velocity": {
+      "avg_trial_months": 23.1,
+      "bail_turnaround_days": 14
+    },
+    "police_intelligence": {
+      "pending_warrants": 4567,
+      "chargesheet_to_trial_days": 209,
+      "undertrial_prisoners": 5842
+    },
+    "special_courts": {
+      "pocso": 3803,
+      "ndps": 4859,
+      "mact": 13205,
+      "sec_138": 6622,
+      "commercial": 2514
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Punjab High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 87282,
+        "disposed": 93479,
+        "pending": 203803
+      },
+      {
+        "year": 2023,
+        "instituted": 77441,
+        "disposed": 82939,
+        "pending": 198305
+      },
+      {
+        "year": 2024,
+        "instituted": 71702,
+        "disposed": 76793,
+        "pending": 193214
+      },
+      {
+        "year": 2025,
+        "instituted": 63289,
+        "disposed": 67783,
+        "pending": 188720
+      },
+      {
+        "year": 2026,
+        "instituted": 75073,
+        "disposed": 80403,
+        "pending": 250050
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "High Court of Judicature for Rajasthan",
+    "tier": "HC",
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "lat": 26.2389,
+    "lon": 73.0243,
+    "establishment_code": "HC_RAJASTHAN",
+    "is_bench": false,
+    "total": 250026,
+    "civil": 145995,
+    "criminal": 104031,
+    "judge_strength": {
+      "sanctioned": 79,
+      "working": 60,
+      "vacancy": 19,
+      "vacancy_rate": 24.1
+    },
+    "case_clearance_rate": 98.6,
+    "disposal_velocity": {
+      "avg_trial_months": 23.5,
+      "bail_turnaround_days": 18
+    },
+    "police_intelligence": {
+      "pending_warrants": 13641,
+      "chargesheet_to_trial_days": 192,
+      "undertrial_prisoners": 12213
+    },
+    "special_courts": {
+      "pocso": 3133,
+      "ndps": 2813,
+      "mact": 11016,
+      "sec_138": 10014,
+      "commercial": 5997
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Rajasthan High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 73500,
+        "disposed": 72471,
+        "pending": 211029
+      },
+      {
+        "year": 2023,
+        "instituted": 74712,
+        "disposed": 73666,
+        "pending": 212075
+      },
+      {
+        "year": 2024,
+        "instituted": 80609,
+        "disposed": 79480,
+        "pending": 213204
+      },
+      {
+        "year": 2025,
+        "instituted": 87209,
+        "disposed": 85988,
+        "pending": 214425
+      },
+      {
+        "year": 2026,
+        "instituted": 74389,
+        "disposed": 73348,
+        "pending": 250026
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "High Court of Sikkim",
+    "tier": "HC",
+    "state": "Sikkim",
+    "district": "Gangtok",
+    "lat": 27.3389,
+    "lon": 88.6065,
+    "establishment_code": "HC_SIKKIM",
+    "is_bench": false,
+    "total": 250018,
+    "civil": 137658,
+    "criminal": 112360,
+    "judge_strength": {
+      "sanctioned": 114,
+      "working": 75,
+      "vacancy": 39,
+      "vacancy_rate": 34.2
+    },
+    "case_clearance_rate": 103.4,
+    "disposal_velocity": {
+      "avg_trial_months": 37.3,
+      "bail_turnaround_days": 19
+    },
+    "police_intelligence": {
+      "pending_warrants": 9767,
+      "chargesheet_to_trial_days": 166,
+      "undertrial_prisoners": 11856
+    },
+    "special_courts": {
+      "pocso": 4362,
+      "ndps": 3736,
+      "mact": 7094,
+      "sec_138": 10301,
+      "commercial": 5090
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Sikkim High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 68201,
+        "disposed": 70520,
+        "pending": 207681
+      },
+      {
+        "year": 2023,
+        "instituted": 83860,
+        "disposed": 86711,
+        "pending": 204830
+      },
+      {
+        "year": 2024,
+        "instituted": 74751,
+        "disposed": 77293,
+        "pending": 202288
+      },
+      {
+        "year": 2025,
+        "instituted": 73727,
+        "disposed": 76234,
+        "pending": 199781
+      },
+      {
+        "year": 2026,
+        "instituted": 65566,
+        "disposed": 67795,
+        "pending": 250018
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "High Court for the State of Telangana",
+    "tier": "HC",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "lat": 17.3688,
+    "lon": 78.4727,
+    "establishment_code": "HC_TELANGANA",
+    "is_bench": false,
+    "total": 249988,
+    "civil": 139371,
+    "criminal": 110617,
+    "judge_strength": {
+      "sanctioned": 147,
+      "working": 115,
+      "vacancy": 32,
+      "vacancy_rate": 21.8
+    },
+    "case_clearance_rate": 93.6,
+    "disposal_velocity": {
+      "avg_trial_months": 25.0,
+      "bail_turnaround_days": 33
+    },
+    "police_intelligence": {
+      "pending_warrants": 8368,
+      "chargesheet_to_trial_days": 155,
+      "undertrial_prisoners": 3807
+    },
+    "special_courts": {
+      "pocso": 2946,
+      "ndps": 5521,
+      "mact": 6668,
+      "sec_138": 26943,
+      "commercial": 4807
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Telangana High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 71885,
+        "disposed": 67284,
+        "pending": 214601
+      },
+      {
+        "year": 2023,
+        "instituted": 73986,
+        "disposed": 69251,
+        "pending": 219336
+      },
+      {
+        "year": 2024,
+        "instituted": 75732,
+        "disposed": 70885,
+        "pending": 224183
+      },
+      {
+        "year": 2025,
+        "instituted": 88832,
+        "disposed": 83147,
+        "pending": 229868
+      },
+      {
+        "year": 2026,
+        "instituted": 90732,
+        "disposed": 84925,
+        "pending": 249988
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "High Court of Tripura",
+    "tier": "HC",
+    "state": "Tripura",
+    "district": "Agartala",
+    "lat": 23.8315,
+    "lon": 91.2868,
+    "establishment_code": "HC_TRIPURA",
+    "is_bench": false,
+    "total": 249970,
+    "civil": 147962,
+    "criminal": 102008,
+    "judge_strength": {
+      "sanctioned": 71,
+      "working": 44,
+      "vacancy": 27,
+      "vacancy_rate": 38.0
+    },
+    "case_clearance_rate": 95.4,
+    "disposal_velocity": {
+      "avg_trial_months": 42.9,
+      "bail_turnaround_days": 34
+    },
+    "police_intelligence": {
+      "pending_warrants": 13589,
+      "chargesheet_to_trial_days": 141,
+      "undertrial_prisoners": 9793
+    },
+    "special_courts": {
+      "pocso": 3814,
+      "ndps": 3788,
+      "mact": 10348,
+      "sec_138": 16738,
+      "commercial": 2911
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Tripura High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 82895,
+        "disposed": 79082,
+        "pending": 213813
+      },
+      {
+        "year": 2023,
+        "instituted": 83692,
+        "disposed": 79842,
+        "pending": 217663
+      },
+      {
+        "year": 2024,
+        "instituted": 84338,
+        "disposed": 80458,
+        "pending": 221543
+      },
+      {
+        "year": 2025,
+        "instituted": 78394,
+        "disposed": 74788,
+        "pending": 225149
+      },
+      {
+        "year": 2026,
+        "instituted": 86793,
+        "disposed": 82801,
+        "pending": 249970
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "High Court of Uttarakhand",
+    "tier": "HC",
+    "state": "Uttarakhand",
+    "district": "Nainital",
+    "lat": 29.3919,
+    "lon": 79.4542,
+    "establishment_code": "HC_UTTARAKHAND",
+    "is_bench": false,
+    "total": 249990,
+    "civil": 141128,
+    "criminal": 108862,
+    "judge_strength": {
+      "sanctioned": 158,
+      "working": 112,
+      "vacancy": 46,
+      "vacancy_rate": 29.1
+    },
+    "case_clearance_rate": 104.0,
+    "disposal_velocity": {
+      "avg_trial_months": 34.5,
+      "bail_turnaround_days": 35
+    },
+    "police_intelligence": {
+      "pending_warrants": 10878,
+      "chargesheet_to_trial_days": 179,
+      "undertrial_prisoners": 8263
+    },
+    "special_courts": {
+      "pocso": 3579,
+      "ndps": 5781,
+      "mact": 12188,
+      "sec_138": 9830,
+      "commercial": 2217
+    },
+    "citizen_aid": {
+      "dlsa_contact": "Uttarakhand High Court Legal Services Committee",
+      "ecourts_cause_list_url": "https://hcservices.ecourts.gov.in/hcservices/",
+      "free_legal_aid": true
+    },
+    "historical_trends": [
+      {
+        "year": 2022,
+        "instituted": 75671,
+        "disposed": 78698,
+        "pending": 206973
+      },
+      {
+        "year": 2023,
+        "instituted": 81010,
+        "disposed": 84250,
+        "pending": 203733
+      },
+      {
+        "year": 2024,
+        "instituted": 74806,
+        "disposed": 77798,
+        "pending": 200741
+      },
+      {
+        "year": 2025,
+        "instituted": 74521,
+        "disposed": 77502,
+        "pending": 197760
+      },
+      {
+        "year": 2026,
+        "instituted": 71359,
+        "disposed": 74213,
+        "pending": 249990
+      }
+    ]
+  }
+]

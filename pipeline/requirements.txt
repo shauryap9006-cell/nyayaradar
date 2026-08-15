@@ -1,0 +1,10 @@
+# NyayaRadar Python Pipeline Requirements
+# Free-tier & Polite scraping ecosystem
+httpx>=0.27.0
+beautifulsoup4>=4.12.3
+rapidfuzz>=3.9.0
+pdfplumber>=0.11.0
+psycopg[binary]>=3.1.18
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+pytest>=8.2.0
