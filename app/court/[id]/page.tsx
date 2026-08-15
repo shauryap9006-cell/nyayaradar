@@ -20,9 +20,13 @@ import {
   Car,
   FileText,
   Briefcase,
-  Sparkles
+  Sparkles,
+  Printer
 } from "lucide-react";
 import Link from "next/link";
+import { ScrollProgress } from "@/components/ScrollProgress";
+import { PrintButton } from "@/components/PrintButton";
+import { CopyButton } from "@/components/CopyButton";
 
 export async function generateStaticParams() {
   const courts = await getCourts();
@@ -102,11 +106,12 @@ export default async function CourtDetailPage({ params }: { params: { id: string
 
   return (
     <div className="flex flex-col min-h-screen bg-black text-white selection:bg-white selection:text-black font-sans">
+      <ScrollProgress />
       <Navbar asOf="M0 Justice Intelligence Baseline" />
 
       <main className="flex-1 max-w-6xl mx-auto w-full p-4 md:p-8 space-y-6">
         {/* Navigation Breadcrumb */}
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between no-print">
           <Link
             href="/"
             className="inline-flex items-center gap-2 text-xs font-medium text-zinc-400 hover:text-white transition-colors"
@@ -144,7 +149,8 @@ export default async function CourtDetailPage({ params }: { params: { id: string
                 {court.district || court.state || "National"}, India
               </span>
             </div>
-            <div className="flex flex-wrap items-center gap-2.5">
+            <div className="flex flex-wrap items-center gap-2.5 no-print">
+              <PrintButton />
               <Link
                 href={`/?court=${court.id}&ai=true`}
                 className="inline-flex items-center gap-1.5 text-xs font-semibold text-white bg-white/10 hover:bg-white/20 px-3.5 py-1.5 rounded-full transition-all border border-white/15 active:scale-95"
@@ -172,12 +178,15 @@ export default async function CourtDetailPage({ params }: { params: { id: string
               ? `Subordinate District & Sessions Court complex serving the territorial and appellate jurisdiction of ${court.district} district in ${court.state}.`
               : `Principal High Court bench exercising constitutional, writ, and supervisory jurisdiction over ${court.state}.`}
           </p>
-          <div className="flex flex-wrap items-center gap-4 text-xs text-zinc-500 font-mono pt-1">
-            <span>Coordinates: {court.lat?.toFixed(4)}, {court.lon?.toFixed(4)}</span>
+          <div className="flex flex-wrap items-center gap-3 text-xs text-zinc-400 font-mono pt-1">
+            <div className="flex items-center gap-1.5 bg-white/[0.04] px-2.5 py-1 rounded-lg border border-white/[0.06]">
+              <span>Coords: {court.lat?.toFixed(4)}, {court.lon?.toFixed(4)}</span>
+              <CopyButton textToCopy={`${court.lat}, ${court.lon}`} />
+            </div>
             <span>•</span>
             <span>State: {court.state || "National"}</span>
             <span>•</span>
-            <span>Clearance Rate (CCR): {ccr}%</span>
+            <span>Clearance Rate (CCR): <strong className="text-white">{ccr}%</strong></span>
           </div>
         </div>
 
@@ -312,7 +321,7 @@ export default async function CourtDetailPage({ params }: { params: { id: string
 
         {/* Section 4: Citizen Free Legal Aid & Access */}
         <div className="glass-panel rounded-3xl p-6 md:p-8 space-y-4 border border-white/[0.1]">
-          <div className="flex items-center justify-between border-b border-white/[0.08] pb-3">
+          <div className="flex flex-wrap items-center justify-between border-b border-white/[0.08] pb-3 gap-3">
             <div>
               <h2 className="text-base font-semibold text-white flex items-center gap-2">
                 <PhoneCall className="w-4 h-4 text-white" />
@@ -322,14 +331,20 @@ export default async function CourtDetailPage({ params }: { params: { id: string
                 Free government-provided legal representation for underprivileged citizens under NALSA Act 1987
               </p>
             </div>
-            <span className="text-[10px] text-zinc-300 font-bold px-2.5 py-1 rounded-full bg-white/10">
-              National Helpline: 15100
-            </span>
+            <div className="flex items-center gap-2 bg-white/10 px-3 py-1 rounded-full border border-white/10">
+              <span className="text-[11px] text-zinc-300 font-bold">
+                Helpline: <strong className="text-white">15100</strong>
+              </span>
+              <CopyButton textToCopy="15100" label="Copy" />
+            </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs text-zinc-300">
-            <div className="p-4 rounded-2xl bg-white/[0.03] border border-white/[0.06] space-y-1.5">
-              <div className="font-semibold text-white text-sm">District Legal Services Authority Contact</div>
+            <div className="p-4 rounded-2xl bg-white/[0.03] border border-white/[0.06] space-y-2">
+              <div className="flex items-center justify-between">
+                <div className="font-semibold text-white text-sm">District Legal Services Authority Contact</div>
+                <CopyButton textToCopy={citizen.dlsa_contact} />
+              </div>
               <p className="text-zinc-400 leading-relaxed">{citizen.dlsa_contact}</p>
               <div className="pt-1 text-[11px] text-zinc-500">
                 Eligible for Women, Children, SC/ST, Custody Inmates & Income under statutory limits.
