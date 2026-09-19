@@ -106,6 +106,7 @@ NyayaAI is an interactive judicial intelligence assistant connected directly to 
 
 ---
 
+---
 ## 🚀 Quickstart
 
 ### Prerequisites
