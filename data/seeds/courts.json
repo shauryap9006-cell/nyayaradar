@@ -9,9 +9,9 @@
     "lon": 77.2394,
     "establishment_code": "SC_01",
     "is_bench": false,
-    "total": 93064,
-    "civil": 52917,
-    "criminal": 40147,
+    "total": 93051,
+    "civil": 51560,
+    "criminal": 41491,
     "judge_strength": {
       "sanctioned": 34,
       "working": 32,
@@ -69,7 +69,7 @@
         "year": 2026,
         "instituted": 27584,
         "disposed": 28825,
-        "pending": 93064
+        "pending": 93051
       }
     ]
   },
@@ -83,9 +83,9 @@
     "lon": 81.8282,
     "establishment_code": "HC_ALLAHABAD",
     "is_bench": false,
-    "total": 250206,
-    "civil": 138284,
-    "criminal": 111922,
+    "total": 250216,
+    "civil": 141316,
+    "criminal": 108900,
     "judge_strength": {
       "sanctioned": 63,
       "working": 50,
@@ -143,7 +143,7 @@
         "year": 2026,
         "instituted": 68506,
         "disposed": 74123,
-        "pending": 250206
+        "pending": 250216
       }
     ]
   },
@@ -157,9 +157,9 @@
     "lon": 80.5185,
     "establishment_code": "HC_ANDHRA_PRADESH",
     "is_bench": false,
-    "total": 250523,
-    "civil": 149797,
-    "criminal": 100726,
+    "total": 250542,
+    "civil": 149479,
+    "criminal": 101063,
     "judge_strength": {
       "sanctioned": 51,
       "working": 34,
@@ -217,7 +217,7 @@
         "year": 2026,
         "instituted": 71556,
         "disposed": 74919,
-        "pending": 250523
+        "pending": 250542
       }
     ]
   },
@@ -231,9 +231,9 @@
     "lon": 72.8306,
     "establishment_code": "HC_BOMBAY",
     "is_bench": false,
-    "total": 250482,
-    "civil": 149187,
-    "criminal": 101295,
+    "total": 250468,
+    "civil": 148219,
+    "criminal": 102249,
     "judge_strength": {
       "sanctioned": 57,
       "working": 45,
@@ -291,7 +291,7 @@
         "year": 2026,
         "instituted": 61156,
         "disposed": 66293,
-        "pending": 250482
+        "pending": 250468
       }
     ]
   },
@@ -305,9 +305,9 @@
     "lon": 88.3433,
     "establishment_code": "HC_CALCUTTA",
     "is_bench": false,
-    "total": 250234,
-    "civil": 147059,
-    "criminal": 103175,
+    "total": 250221,
+    "civil": 138689,
+    "criminal": 111532,
     "judge_strength": {
       "sanctioned": 100,
       "working": 72,
@@ -365,7 +365,7 @@
         "year": 2026,
         "instituted": 81637,
         "disposed": 76412,
-        "pending": 250234
+        "pending": 250221
       }
     ]
   },
@@ -379,9 +379,9 @@
     "lon": 82.1409,
     "establishment_code": "HC_CHHATTISGARH",
     "is_bench": false,
-    "total": 250220,
-    "civil": 140234,
-    "criminal": 109986,
+    "total": 250206,
+    "civil": 146727,
+    "criminal": 103479,
     "judge_strength": {
       "sanctioned": 52,
       "working": 38,
@@ -439,7 +439,7 @@
         "year": 2026,
         "instituted": 68600,
         "disposed": 71275,
-        "pending": 250220
+        "pending": 250206
       }
     ]
   },
@@ -453,9 +453,9 @@
     "lon": 77.2407,
     "establishment_code": "HC_DELHI",
     "is_bench": false,
-    "total": 250350,
-    "civil": 140573,
-    "criminal": 109777,
+    "total": 250369,
+    "civil": 139054,
+    "criminal": 111315,
     "judge_strength": {
       "sanctioned": 116,
       "working": 70,
@@ -513,7 +513,7 @@
         "year": 2026,
         "instituted": 87420,
         "disposed": 84273,
-        "pending": 250350
+        "pending": 250369
       }
     ]
   },
@@ -527,9 +527,9 @@
     "lon": 91.7516,
     "establishment_code": "HC_GAUHATI",
     "is_bench": false,
-    "total": 250209,
-    "civil": 147911,
-    "criminal": 102298,
+    "total": 250204,
+    "civil": 144181,
+    "criminal": 106023,
     "judge_strength": {
       "sanctioned": 127,
       "working": 92,
@@ -587,7 +587,7 @@
         "year": 2026,
         "instituted": 76746,
         "disposed": 74751,
-        "pending": 250209
+        "pending": 250204
       }
     ]
   },
@@ -601,9 +601,9 @@
     "lon": 72.5298,
     "establishment_code": "HC_GUJARAT",
     "is_bench": false,
-    "total": 250245,
-    "civil": 147365,
-    "criminal": 102880,
+    "total": 250270,
+    "civil": 148553,
+    "criminal": 101717,
     "judge_strength": {
       "sanctioned": 143,
       "working": 99,
@@ -661,7 +661,7 @@
         "year": 2026,
         "instituted": 72937,
         "disposed": 76438,
-        "pending": 250245
+        "pending": 250270
       }
     ]
   },
@@ -675,9 +675,9 @@
     "lon": 77.1734,
     "establishment_code": "HC_HIMACHAL",
     "is_bench": false,
-    "total": 250278,
-    "civil": 147271,
-    "criminal": 103007,
+    "total": 250263,
+    "civil": 138180,
+    "criminal": 112083,
     "judge_strength": {
       "sanctioned": 63,
       "working": 49,
@@ -735,7 +735,7 @@
         "year": 2026,
         "instituted": 79887,
         "disposed": 77570,
-        "pending": 250278
+        "pending": 250263
       }
     ]
   },
@@ -749,9 +749,9 @@
     "lon": 74.8,
     "establishment_code": "HC_JAMMU_KASHMIR",
     "is_bench": false,
-    "total": 250315,
-    "civil": 148820,
-    "criminal": 101495,
+    "total": 250329,
+    "civil": 148277,
+    "criminal": 102052,
     "judge_strength": {
       "sanctioned": 50,
       "working": 37,
@@ -809,7 +809,7 @@
         "year": 2026,
         "instituted": 72123,
         "disposed": 72051,
-        "pending": 250315
+        "pending": 250329
       }
     ]
   },
@@ -823,9 +823,9 @@
     "lon": 85.3096,
     "establishment_code": "HC_JHARKHAND",
     "is_bench": false,
-    "total": 250242,
-    "civil": 142905,
-    "criminal": 107337,
+    "total": 250248,
+    "civil": 147200,
+    "criminal": 103048,
     "judge_strength": {
       "sanctioned": 148,
       "working": 112,
@@ -883,7 +883,7 @@
         "year": 2026,
         "instituted": 84987,
         "disposed": 79633,
-        "pending": 250242
+        "pending": 250248
       }
     ]
   },
@@ -898,8 +898,8 @@
     "establishment_code": "HC_KARNATAKA",
     "is_bench": false,
     "total": 250105,
-    "civil": 146740,
-    "criminal": 103365,
+    "civil": 143203,
+    "criminal": 106902,
     "judge_strength": {
       "sanctioned": 93,
       "working": 60,
@@ -971,9 +971,9 @@
     "lon": 76.2755,
     "establishment_code": "HC_KERALA",
     "is_bench": false,
-    "total": 250256,
-    "civil": 149884,
-    "criminal": 100372,
+    "total": 250274,
+    "civil": 147276,
+    "criminal": 102998,
     "judge_strength": {
       "sanctioned": 84,
       "working": 62,
@@ -1031,7 +1031,7 @@
         "year": 2026,
         "instituted": 62643,
         "disposed": 67842,
-        "pending": 250256
+        "pending": 250274
       }
     ]
   },
@@ -1045,9 +1045,9 @@
     "lon": 79.9404,
     "establishment_code": "HC_MADHYA_PRADESH",
     "is_bench": false,
-    "total": 250332,
-    "civil": 141956,
-    "criminal": 108376,
+    "total": 250337,
+    "civil": 141863,
+    "criminal": 108474,
     "judge_strength": {
       "sanctioned": 74,
       "working": 51,
@@ -1105,7 +1105,7 @@
         "year": 2026,
         "instituted": 70095,
         "disposed": 72128,
-        "pending": 250332
+        "pending": 250337
       }
     ]
   },
@@ -1119,9 +1119,9 @@
     "lon": 80.2872,
     "establishment_code": "HC_MADRAS",
     "is_bench": false,
-    "total": 250294,
-    "civil": 144708,
-    "criminal": 105586,
+    "total": 250295,
+    "civil": 149520,
+    "criminal": 100775,
     "judge_strength": {
       "sanctioned": 130,
       "working": 101,
@@ -1179,7 +1179,7 @@
         "year": 2026,
         "instituted": 70585,
         "disposed": 70161,
-        "pending": 250294
+        "pending": 250295
       }
     ]
   },
@@ -1193,9 +1193,9 @@
     "lon": 93.9368,
     "establishment_code": "HC_MANIPUR",
     "is_bench": false,
-    "total": 250331,
-    "civil": 143793,
-    "criminal": 106538,
+    "total": 250329,
+    "civil": 149588,
+    "criminal": 100741,
     "judge_strength": {
       "sanctioned": 62,
       "working": 46,
@@ -1253,7 +1253,7 @@
         "year": 2026,
         "instituted": 76983,
         "disposed": 74212,
-        "pending": 250331
+        "pending": 250329
       }
     ]
   },
@@ -1267,9 +1267,9 @@
     "lon": 91.8933,
     "establishment_code": "HC_MEGHALAYA",
     "is_bench": false,
-    "total": 250222,
-    "civil": 139617,
-    "criminal": 110605,
+    "total": 250231,
+    "civil": 149074,
+    "criminal": 101157,
     "judge_strength": {
       "sanctioned": 154,
       "working": 99,
@@ -1327,7 +1327,7 @@
         "year": 2026,
         "instituted": 92315,
         "disposed": 88807,
-        "pending": 250222
+        "pending": 250231
       }
     ]
   },
@@ -1341,9 +1341,9 @@
     "lon": 85.8828,
     "establishment_code": "HC_ORISSA",
     "is_bench": false,
-    "total": 250296,
-    "civil": 149058,
-    "criminal": 101238,
+    "total": 250297,
+    "civil": 145608,
+    "criminal": 104689,
     "judge_strength": {
       "sanctioned": 117,
       "working": 86,
@@ -1401,7 +1401,7 @@
         "year": 2026,
         "instituted": 63692,
         "disposed": 67768,
-        "pending": 250296
+        "pending": 250297
       }
     ]
   },
@@ -1415,9 +1415,9 @@
     "lon": 85.1228,
     "establishment_code": "HC_PATNA",
     "is_bench": false,
-    "total": 250206,
-    "civil": 139540,
-    "criminal": 110666,
+    "total": 250212,
+    "civil": 150113,
+    "criminal": 100099,
     "judge_strength": {
       "sanctioned": 72,
       "working": 49,
@@ -1475,7 +1475,7 @@
         "year": 2026,
         "instituted": 74397,
         "disposed": 74843,
-        "pending": 250206
+        "pending": 250212
       }
     ]
   },
@@ -1489,9 +1489,9 @@
     "lon": 76.802,
     "establishment_code": "HC_PUNJAB_HARYANA",
     "is_bench": false,
-    "total": 250370,
-    "civil": 141535,
-    "criminal": 108835,
+    "total": 250382,
+    "civil": 140446,
+    "criminal": 109936,
     "judge_strength": {
       "sanctioned": 154,
       "working": 110,
@@ -1549,7 +1549,7 @@
         "year": 2026,
         "instituted": 75073,
         "disposed": 80403,
-        "pending": 250370
+        "pending": 250382
       }
     ]
   },
@@ -1563,9 +1563,9 @@
     "lon": 73.0243,
     "establishment_code": "HC_RAJASTHAN",
     "is_bench": false,
-    "total": 250401,
-    "civil": 142460,
-    "criminal": 107941,
+    "total": 250391,
+    "civil": 148176,
+    "criminal": 102215,
     "judge_strength": {
       "sanctioned": 79,
       "working": 60,
@@ -1623,7 +1623,7 @@
         "year": 2026,
         "instituted": 74389,
         "disposed": 73348,
-        "pending": 250401
+        "pending": 250391
       }
     ]
   },
@@ -1637,9 +1637,9 @@
     "lon": 88.6065,
     "establishment_code": "HC_SIKKIM",
     "is_bench": false,
-    "total": 250200,
-    "civil": 149656,
-    "criminal": 100544,
+    "total": 250209,
+    "civil": 139523,
+    "criminal": 110686,
     "judge_strength": {
       "sanctioned": 114,
       "working": 75,
@@ -1697,7 +1697,7 @@
         "year": 2026,
         "instituted": 65566,
         "disposed": 67795,
-        "pending": 250200
+        "pending": 250209
       }
     ]
   },
@@ -1711,9 +1711,9 @@
     "lon": 78.4727,
     "establishment_code": "HC_TELANGANA",
     "is_bench": false,
-    "total": 250161,
-    "civil": 142405,
-    "criminal": 107756,
+    "total": 250182,
+    "civil": 139624,
+    "criminal": 110558,
     "judge_strength": {
       "sanctioned": 147,
       "working": 115,
@@ -1771,7 +1771,7 @@
         "year": 2026,
         "instituted": 90732,
         "disposed": 84925,
-        "pending": 250161
+        "pending": 250182
       }
     ]
   },
@@ -1785,9 +1785,9 @@
     "lon": 91.2868,
     "establishment_code": "HC_TRIPURA",
     "is_bench": false,
-    "total": 250292,
-    "civil": 143050,
-    "criminal": 107242,
+    "total": 250305,
+    "civil": 145700,
+    "criminal": 104605,
     "judge_strength": {
       "sanctioned": 71,
       "working": 44,
@@ -1845,7 +1845,7 @@
         "year": 2026,
         "instituted": 86793,
         "disposed": 82801,
-        "pending": 250292
+        "pending": 250305
       }
     ]
   },
@@ -1859,9 +1859,9 @@
     "lon": 79.4542,
     "establishment_code": "HC_UTTARAKHAND",
     "is_bench": false,
-    "total": 250067,
-    "civil": 142878,
-    "criminal": 107189,
+    "total": 250054,
+    "civil": 137817,
+    "criminal": 112237,
     "judge_strength": {
       "sanctioned": 158,
       "working": 112,
@@ -1919,7 +1919,7 @@
         "year": 2026,
         "instituted": 71359,
         "disposed": 74213,
-        "pending": 250067
+        "pending": 250054
       }
     ]
   }
